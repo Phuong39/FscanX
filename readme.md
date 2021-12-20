@@ -4,6 +4,7 @@
   <br>
 </h1>
 
+
 <h4 align="center">golang 语言编写的内网综合利用扫描器</h4>
 
 <p align="center">
@@ -67,3 +68,6 @@ Note: 这仅仅只是一些使用例子，详细可通过`--help`参数或`-h`�
 ## 感谢 :
 <br> <b>https://github.com/shadow1ng/fscan</b>
 <br> <b>https://github.com/k8gege/LadonGo</b>
+
+
+<h1>程序将更新一个大版本并更名为Yasso,预发布功能包括rdp爆破，ssh完全交互式登陆，log4j内网不出网检查辅助，ldap查询功能等</h1>
